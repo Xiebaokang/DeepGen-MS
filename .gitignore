@@ -20,3 +20,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# mine
+bin/
+build/
+*.so
+__pycache__/
+*.pyc
+# build.sh
+# rebuild.sh
